@@ -11,7 +11,7 @@ header {
   color: #fff;
 }
 .introduction-section {
-  background: aqua;
+  background: rgb(4, 43, 43);
   line-height: 25px;
   padding: 10px;
 }
@@ -27,14 +27,14 @@ h1 {
   height: 50%;
   padding: 20px;
   margin: 20px;
-  border: solid 1px black;
+  border: solid 1px rgb(92, 88, 88);
   position: relative;
   align-items: center;
 }
 .container p {
   width: 50px auto;
   text-align: center;
-  line-height: 25px;
+  line-height: 20px;
 }
 .skills-section {
   background: red;
@@ -86,7 +86,7 @@ h1 {
   color: #fe004a;
 }
 .contact-section p i {
-  color: #ff004f;
+  color: #a2ff00;
   margin-right: 15px;
   font-size: 25px;
 }
@@ -104,10 +104,9 @@ h1 {
 }
 
 .social-icons a {
-  text-align: center;
+  text-align: left;
   font-size: 20px;
   margin-right: 20px;
   color: #0015ff;
   display: inline-block;
-  transition: transform 0.5s;
 }
